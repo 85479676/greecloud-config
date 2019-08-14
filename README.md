@@ -1,1 +1,0 @@
-# greecloud-config
